@@ -8,6 +8,9 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 joblib==1.1.0
 MarkupSafe==2.1.1
+mkl-fft
+mkl-random
+mkl-service
 numexpr==2.8.3
 numpy==1.21.5
 packaging==21.3
